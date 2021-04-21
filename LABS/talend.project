@@ -33,7 +33,5 @@
     <migrationTask xmi:id="_U-xZZ6JKEeu5JbYi_JB7cw" id="org.talend.repository.model.migration.RepositoryProjectDateMigrationTask" breaks="7.0.0" version="7.0.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Qa3JQqJKEeu5JbYi_JB7cw" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_VBJ-8KJKEeu5JbYi_JB7cw" login="gituser@company.com" firstName="Git" lastName="User" type="MDM" additionnalData="{}">
-    <projectAuthorization href="../C:/Talend/7.0.1/studio/#/"/>
-  </TalendProperties:User>
+  <TalendProperties:User xmi:id="_VBJ-8KJKEeu5JbYi_JB7cw" login="gituser@company.com" firstName="Git" lastName="User" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
