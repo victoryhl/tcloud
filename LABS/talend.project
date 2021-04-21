@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Qa3JQaJKEeu5JbYi_JB7cw" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2021-04-21T02:31:37.000+0000" author="_Qa3JQqJKEeu5JbYi_JB7cw" productVersion="Talend Data Fabric-7.0.1.20201207_0631-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/victoryhl/tcloud&quot;,&quot;login&quot;:&quot;victoryhl&quot;,&quot;passwd&quot;:&quot;HzF/S1EyxGy9bS/+w3VAdQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_Qa3JQqJKEeu5JbYi_JB7cw" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
